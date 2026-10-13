@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# 96 MB raw file - too large for a normal GitHub repo. The cleaned file
+# (data/players_fc24_clean.csv) is committed instead; see README for the source.
+data/male_players.csv
+.streamlit/secrets.toml
